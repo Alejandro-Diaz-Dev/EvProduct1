@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:background="@drawable/registro"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity7">
+
+    <ImageView
+        android:id="@+id/imageView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:layout_editor_absoluteX="40dp"
+        tools:layout_editor_absoluteY="77dp"
+        tools:srcCompat="@tools:sample/avatars" />
+
+    <ImageView
+        android:id="@+id/imageView5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:layout_editor_absoluteX="236dp"
+        tools:layout_editor_absoluteY="77dp"
+        tools:srcCompat="@tools:sample/avatars" />
+
+    <ImageView
+        android:id="@+id/imageView6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:layout_editor_absoluteX="42dp"
+        tools:layout_editor_absoluteY="409dp"
+        tools:srcCompat="@tools:sample/avatars" />
+
+    <ImageView
+        android:id="@+id/imageView7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:layout_editor_absoluteX="236dp"
+        tools:layout_editor_absoluteY="409dp"
+        tools:srcCompat="@tools:sample/avatars" />
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="CAMISAS"
+        android:textSize="20sp"
+        tools:layout_editor_absoluteX="63dp"
+        tools:layout_editor_absoluteY="215dp" />
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="GORRAS"
+        android:textSize="20sp"
+        tools:layout_editor_absoluteX="264dp"
+        tools:layout_editor_absoluteY="215dp" />
+
+    <TextView
+        android:id="@+id/textView7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="TERMOS"
+        android:textSize="20sp"
+        tools:layout_editor_absoluteX="70dp"
+        tools:layout_editor_absoluteY="550dp" />
+
+    <TextView
+        android:id="@+id/textView8"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="SUDADERAS"
+        android:textSize="20sp"
+        tools:layout_editor_absoluteX="247dp"
+        tools:layout_editor_absoluteY="550dp" />
+
+    <TextView
+        android:id="@+id/textView9"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="1000 USD"
+        android:textSize="15sp"
+        tools:layout_editor_absoluteX="69dp"
+        tools:layout_editor_absoluteY="250dp" />
+
+    <TextView
+        android:id="@+id/textView10"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="300 USD"
+        android:textSize="15sp"
+        tools:layout_editor_absoluteX="272dp"
+        tools:layout_editor_absoluteY="250dp" />
+
+    <Button
+        android:id="@+id/button10"
+        android:layout_width="124dp"
+        android:layout_height="53dp"
+        android:text="COMPRAR"
+        tools:layout_editor_absoluteX="49dp"
+        tools:layout_editor_absoluteY="281dp" />
+
+    <Button
+        android:id="@+id/button11"
+        android:layout_width="128dp"
+        android:layout_height="53dp"
+        android:text="COMPRAR"
+        tools:layout_editor_absoluteX="247dp"
+        tools:layout_editor_absoluteY="281dp" />
+
+    <Button
+        android:id="@+id/button12"
+        android:layout_width="126dp"
+        android:layout_height="52dp"
+        android:text="COMPRAR"
+        tools:layout_editor_absoluteX="42dp"
+        tools:layout_editor_absoluteY="613dp" />
+
+    <Button
+        android:id="@+id/button13"
+        android:layout_width="129dp"
+        android:layout_height="55dp"
+        android:text="COMPRAR"
+        tools:layout_editor_absoluteX="247dp"
+        tools:layout_editor_absoluteY="613dp" />
+
+    <TextView
+        android:id="@+id/textView11"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="150 USD"
+        android:textSize="15sp"
+        tools:layout_editor_absoluteX="79dp"
+        tools:layout_editor_absoluteY="578dp" />
+
+    <TextView
+        android:id="@+id/textView12"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="1500 USD"
+        android:textSize="15sp"
+        tools:layout_editor_absoluteX="278dp"
+        tools:layout_editor_absoluteY="580dp" />
+</androidx.constraintlayout.widget.ConstraintLayout>
